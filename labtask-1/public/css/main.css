@@ -1,0 +1,15 @@
+.reg-panel{
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid mediumaquamarine;
+    padding: 60px;
+}
+h1{
+    color: red;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+}
+hr{
+    margin-bottom: 40px;
+}
